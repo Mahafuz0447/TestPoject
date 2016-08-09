@@ -13,3 +13,6 @@ F:\Test Project\VisualStudio 2015 Projects\PostgreSQL_App\PostgreSQL_App\obj\Deb
 F:\Test Project\VisualStudio 2015 Projects\PostgreSQL_App\PostgreSQL_App\obj\Debug\PostgreSQL_App.csproj.GenerateResource.Cache
 F:\Test Project\VisualStudio 2015 Projects\PostgreSQL_App\PostgreSQL_App\obj\Debug\PostgreSQL_App.exe
 F:\Test Project\VisualStudio 2015 Projects\PostgreSQL_App\PostgreSQL_App\obj\Debug\PostgreSQL_App.pdb
+E:\Test_Projects\Test\PostgreSQL_App\bin\Debug\PostgreSQL_App.exe.config
+E:\Test_Projects\Test\PostgreSQL_App\obj\Debug\PostgreSQL_App.exe
+E:\Test_Projects\Test\PostgreSQL_App\obj\Debug\PostgreSQL_App.pdb
